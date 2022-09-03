@@ -1,5 +1,5 @@
 # Javascript Playground
-Simple JS playground to play with algorithms, data structures and overall js language.
+Simple JS playground to play with Algorithms and Data Structures.
 
 You can run each example simply by running:
 
